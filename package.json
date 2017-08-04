@@ -1,0 +1,22 @@
+{
+  "name": "lmgtfy-react",
+  "version": "1.0.0",
+  "description": "lmgtfy link for your react component",
+  "main": "src/index.jsx",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ducthienbui97/lmgtfy-react.git"
+  },
+  "keywords": [
+    "lmgtfy"
+  ],
+  "author": "Thien Bui <thienbui797@gmail.com>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/ducthienbui97/lmgtfy-react/issues"
+  },
+  "homepage": "https://github.com/ducthienbui97/lmgtfy-react#readme"
+}
