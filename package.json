@@ -1,6 +1,6 @@
 {
   "name": "lmgtfy-react",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "lmgtfy link for your react components",
   "main": "lib/index.js",
   "module": "es/index.js",
@@ -28,7 +28,8 @@
     "enzyme": "^2.9.1",
     "nwb": "0.18.x",
     "react": "^15.6.1",
-    "react-dom": "^15.6.1"
+    "react-dom": "^15.6.1",
+    "react-test-renderer": "^15.6.1"
   },
   "author": "Thien Bui <thienbui797@gmail.com>",
   "license": "MIT",

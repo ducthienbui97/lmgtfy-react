@@ -12,4 +12,16 @@ describe('Props test', () => {
         const component = shallow (<Lmgtfy query="test" engine = "ask" >test link</Lmgtfy>);
         expect(component.instance().props.engine).toEqual("ask");
     });
+    it('should have target prop', () =>{
+        const component = shallow (<Lmgtfy query="test" target="_blank">test link</Lmgtfy>);
+        expect(component.instance().props.target).toEqual("_blank");
+    });
+    it('should have default engine prop', () => {
+        const component = shallow (<Lmgtfy query="test">test link</Lmgtfy>);
+        expect(component.instance().props.engine).toEqual("google");
+    });
+    it('should have default target prop', () => {
+        const component = shallow (<Lmgtfy query="test">test link</Lmgtfy>);
+        expect(component.instance().props.target).toEqual("_self");
+    });
 });
