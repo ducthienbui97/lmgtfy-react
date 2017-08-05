@@ -1,6 +1,6 @@
 {
   "name": "lmgtfy-react",
-  "version": "1.0.2",
+  "version": "1.0.3",
   "description": "lmgtfy link for your react components",
   "main": "lib/index.js",
   "module": "es/index.js",
