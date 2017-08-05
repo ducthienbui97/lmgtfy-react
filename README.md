@@ -1,8 +1,12 @@
 # lmgtfy-react
+[![Build Status](https://travis-ci.org/ducthienbui97/lmgtfy-react.svg?branch=master)](https://travis-ci.org/ducthienbui97/lmgtfy-react)
+[![codecov](https://codecov.io/gh/ducthienbui97/lmgtfy-react/branch/master/graph/badge.svg)](https://codecov.io/gh/ducthienbui97/lmgtfy-react)
+[![Code Climate](https://codeclimate.com/github/ducthienbui97/lmgtfy-react/badges/gpa.svg)](https://codeclimate.com/github/ducthienbui97/lmgtfy-react)
 
 Lmgtfy link for your React component
 
 ## Install
+[![NPM](https://nodei.co/npm/lmgtfy-react.png?mini=true)](https://nodei.co/npm/lmgtfy-react/)
 ```bash
 npm install -S lmgtfy-react
 ```
