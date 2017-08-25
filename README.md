@@ -2,8 +2,8 @@
 [![Build Status](https://travis-ci.org/ducthienbui97/lmgtfy-react.svg?branch=master)](https://travis-ci.org/ducthienbui97/lmgtfy-react)
 [![codecov](https://codecov.io/gh/ducthienbui97/lmgtfy-react/branch/master/graph/badge.svg)](https://codecov.io/gh/ducthienbui97/lmgtfy-react)
 [![Code Climate](https://codeclimate.com/github/ducthienbui97/lmgtfy-react/badges/gpa.svg)](https://codeclimate.com/github/ducthienbui97/lmgtfy-react)
-[![GitLicense](https://gitlicense.azurewebsites.net/ducthienbui97/lmgtfy-react/badge)](https://gitlicense.azurewebsites.net/ducthienbui97/lmgtfy-react/license)
-
+[![GitLicense](https://gitlicense.com/badge/ducthienbui97/lmgtfy-react)](https://gitlicense.com/license/ducthienbui97/lmgtfy-react)
+ 
 Lmgtfy link for your React component
 
 ## Install
